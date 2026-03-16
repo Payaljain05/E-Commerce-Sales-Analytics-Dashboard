@@ -91,5 +91,53 @@ A complete end-to-end data analytics project investigating Q4 2025 revenue perfo
 
 ---
 
-## 📂 Project Structure
+## SQL Queries
+
+| # | Analysis | Key SQL Concepts |
+|---|----------|-----------------|
+| 1 | Q4 Revenue Drop by Category | CTEs, JOIN, DENSE_RANK(), WHERE filter |
+| 2 | Customer Churn Prediction | CTE, DATEDIFF(), HAVING, ORDER BY |
+| 3 | Top 10% Customers | NTILE(10), DENSE_RANK(), GROUP BY |
+| 4 | Monthly AOV Trend | MONTHNAME(), COUNT(), SUM(), ROUND() |
+
+Full queries: [queries.sql](queries.sql)
+
+---
+
+## Dataset
+
+| Property | Detail |
+|----------|--------|
+| Type | Synthetic (practice dataset) |
+| Orders | 1,000 rows |
+| Customers | 500 rows |
+| Period | January–December 2025 |
+| Categories | Electronics, Sports |
+
+---
+
+## Skills Demonstrated
+- SQL → CTEs, Window Functions, Date Functions, Aggregations, Joins
+- Excel → Pivot Tables, Charts, Dashboard Layout, Power Pivot Measures
+- Analytics → Revenue Attribution, Churn Analysis, Customer Segmentation, AOV
+- Business → Impact Quantification, Priority Ranking, Actionable Recommendations
+
+---
+
+## Related Projects
+
+[Sales & Customer Performance Dashboard — Power BI](https://github.com/Payaljain05/Sales-Customer-performance-dashboard)
+
+---
+
+## Author
+
+**Payal Jain**
+MCA Student | Aspiring Data Analyst
+[GitHub](https://github.com/Payaljain05)
+
+---
+
+*If you found this project helpful, please star the repository!*
+
 
