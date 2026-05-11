@@ -1,4 +1,5 @@
-# E-Commerce Q4 Sales Analytics Dashboard
+# E-Commerce-Insights-SQL
+
 
 > **SQL → Excel Pipeline | Revenue Drop Investigation | Customer Insights | 2025**
 
