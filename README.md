@@ -15,7 +15,7 @@ A complete end-to-end data analytics project investigating Q4 2025 revenue perfo
 
 ## Business Problem
 
-> *"Q4 revenue dropped significantly. Which categories underperformed? Who are the highest-value customers? What is the churn risk?"*
+> *Q4 revenue dropped significantly. Which categories underperformed? Who are the highest-value customers? What is the churn risk?*
 
 **Objective:** Identify revenue drop drivers, segment high-value customers, analyze AOV trends, and flag churn-risk customers.
 
